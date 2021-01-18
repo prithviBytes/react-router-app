@@ -15,3 +15,7 @@ This Application was developed on Codesandbox & deployed using Netlify.
 ### Snapshot
 
 ![SNAPSHOT](https://github.com/prithviBytes/react-router-app/blob/main/Dog%20App%20Snapshot.jpg?raw=true)
+
+### Credits
+
+The credit of this project goes to **Colt Steele**. Do check out his channel. <a href="https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw">Colt Steele's Youtube</a>
