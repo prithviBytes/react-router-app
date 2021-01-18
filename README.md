@@ -14,4 +14,4 @@ This Application was developed on Codesandbox & deployed using Netlify.
 
 ### Snapshot
 
-
+![SNAPSHOT](https://github.com/prithviBytes/react-router-app/blob/main/Dog%20App%20Snapshot.jpg?raw=true)
