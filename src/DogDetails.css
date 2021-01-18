@@ -1,0 +1,13 @@
+.DogDetails-card {
+  margin-bottom: 10px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.1);
+}
+
+.DogDetails-card img {
+  filter: grayscale();
+  transition: all 0.5s ease;
+}
+
+.DogDetails-card:hover img {
+  filter: none;
+}
