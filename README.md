@@ -9,4 +9,9 @@ This is a demo app intended to practice Client-Side Rendering using React. Boots
   <li>bootstrap: For Styling.</li>
 </ul>
 
+### Environment
+This Application was developed on Codesandbox & deployed using Netlify.
+
+### Snapshot
+
 
